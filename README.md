@@ -19,7 +19,7 @@ This project simulates LinkedIn-style social media posts and analyzes engagement
 ## 📈 Features
 
 - Generate synthetic post data with random:
-  - Categories (`Food`, `Travel`, `Fitness`, etc.)
+  - Categories (`Industry Trends`, `Career Advice`, `Technology`, etc.)
   - Post dates
   - Like counts
 - Clean and prepare the dataset:
@@ -44,7 +44,7 @@ Highlights variation and outliers in likes for each content category.
 
 ### Statistical Summary
 - Mean likes overall
-- Mean likes per category (e.g., Music, Fashion, Health)
+- Mean likes per category (e.g., Business, Leadership, Education)
 
 ---
 
